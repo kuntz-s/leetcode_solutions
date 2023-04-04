@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680620495 source:f:\projets\projets git\leetcode\7. reverse integer\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+
